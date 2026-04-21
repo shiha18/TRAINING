@@ -5,28 +5,28 @@ import CourseCard from "@/src/components/CourseCard";
 
 const featuredCourses = [
   {
-    title: "Advanced CRM Mastery & Strategy",
+    title: "Data Analytics & Visualization with Python",
+    category: "Data Science",
+    image: "https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&q=80&w=800",
+    rating: 5.0,
+    students: "3.4k",
+    duration: "16 Weeks",
+  },
+  {
+    title: "Project Management Professional (PMP)",
     category: "Management",
-    image: "https://images.unsplash.com/photo-1552581234-26160f608093?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&q=80&w=800",
     rating: 4.9,
-    students: "1.2k",
+    students: "2.5k",
     duration: "12 Weeks",
   },
   {
-    title: "Network Security & Ethical Hacking",
-    category: "Information Technology",
-    image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=800",
+    title: "Financial Modeling & Valuations",
+    category: "Finance",
+    image: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&q=80&w=800",
     rating: 4.8,
-    students: "850",
+    students: "900",
     duration: "10 Weeks",
-  },
-  {
-    title: "Supply Chain & Logistics Management",
-    category: "Operations",
-    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&q=80&w=800",
-    rating: 4.7,
-    students: "2.1k",
-    duration: "14 Weeks",
   },
 ];
 

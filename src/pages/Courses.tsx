@@ -31,7 +31,7 @@ const allCourses = [
   {
     title: "Data Analytics & Visualization with Python",
     category: "Data Science",
-    image: "https://images.unsplash.com/photo-1551288049-bbda4e1a0650?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&q=80&w=800",
     rating: 5.0,
     students: "3.4k",
     duration: "16 Weeks",
@@ -47,7 +47,7 @@ const allCourses = [
   {
     title: "Project Management Professional (PMP)",
     category: "Management",
-    image: "https://images.unsplash.com/photo-1454165833772-d99626a44bf7?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&q=80&w=800",
     rating: 4.9,
     students: "2.5k",
     duration: "12 Weeks",
@@ -63,7 +63,7 @@ const allCourses = [
   {
     title: "Financial Modeling & Valuations",
     category: "Finance",
-    image: "https://images.unsplash.com/photo-1591696208162-a81b73974e0d?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&q=80&w=800",
     rating: 4.8,
     students: "900",
     duration: "10 Weeks",
